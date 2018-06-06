@@ -1,0 +1,7 @@
+META-INF/spring-configuration-metadata.json
+com/moses/kuaibiteboot/DubboAutoConfiguration.class
+com/moses/kuaibiteboot/DubboConfigurationApplicationContextInitializer.class
+com/moses/kuaibiteboot/DubboProperties.class
+com/moses/kuaibiteboot/DubboHolderListener$1.class
+com/moses/kuaibiteboot/DubboHolderListener.class
+com/moses/kuaibiteboot/spring/AnnotationBean.class
